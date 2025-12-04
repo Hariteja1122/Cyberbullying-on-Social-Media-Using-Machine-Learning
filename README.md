@@ -1,0 +1,2 @@
+# Cyberbullying-on-Social-Media-Using-Machine-Learning
+A Django-based pipeline that accepts user text, preprocesses it on the backend, and classifies it using a machine-learning model trained on labeled cyberbullying datasets. Includes message evaluation, result storage, dataset management, admin model-retraining workflow, and a clean, extensible architecture for future NLP and deep-learning upgrades.
